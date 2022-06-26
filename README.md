@@ -20,7 +20,7 @@
   <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://www.linkedin.com/in/iakigarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakigarci" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/12597050/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
+    <a href="https://es.stackoverflow.com/users/158274/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
     </p>
 </div>
 
@@ -44,7 +44,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -57,8 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+[!alt text]()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -185,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Iñaki García 
+Iñaki García : i.garcia.noya@gmail.com
 
 Project Link: [https://github.com/iakigarci/repo_name](https://github.com/iakigarci/repo_name)
 
@@ -206,6 +204,7 @@ During this project, knowledge has been acquired that will be important for the 
 <!--
 ## Contributors
 * iakigarci [https://github.com/iakigarci/](https://github.com/iakigarci/)
+
 -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
