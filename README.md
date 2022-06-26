@@ -20,7 +20,7 @@
   <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://www.linkedin.com/in/iakigarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iakigarci" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/12597050/iakigarci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iakigarci" height="30" width="40" /></a>
     </p>
 </div>
 
@@ -187,7 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Iñaki García 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/iakigarci/)
+Project Link: [https://github.com/iakigarci/repo_name](https://github.com/iakigarci/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -202,7 +202,11 @@ During this project, knowledge has been acquired that will be important for the 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<!-- CONTRIBUTORS -->
+<!--
+## Contributors
+* iakigarci [https://github.com/iakigarci/](https://github.com/iakigarci/)
+-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
