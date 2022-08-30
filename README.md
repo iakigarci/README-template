@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Iñaki García : i.garcia.noya@gmail.com
+Iñaki García : inaki.garcianoya@gmail.com
 
 Project Link: [https://github.com/iakigarci/repo_name](https://github.com/iakigarci/repo_name)
 
