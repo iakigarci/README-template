@@ -7,15 +7,6 @@
 
   <p align="center">
     An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <!--<br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>-->
   </p>
   <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -46,8 +37,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <!--<li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
 </details>
 
@@ -156,6 +146,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
+Project Link: [https://github.com/iakigarci/repo_name](https://github.com/iakigarci/repo_name)
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -180,26 +172,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Iñaki García : inaki.garcianoya@gmail.com
-
-Project Link: [https://github.com/iakigarci/repo_name](https://github.com/iakigarci/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
-
 During this project, knowledge has been acquired that will be important for the future. Listed here are the resources that have been used in order to successfully complete this project:
 
 * [Choose an Open Source License](https://choosealicense.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+-->
 <!-- CONTRIBUTORS -->
 <!--
 ## Contributors
